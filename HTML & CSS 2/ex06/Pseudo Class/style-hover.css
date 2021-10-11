@@ -1,0 +1,26 @@
+@charset 'UTF-08';
+
+
+
+body {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+}
+
+div > p{
+    display: none;
+    color: black;
+}
+
+div:hover > p{
+    display: block;
+    color: blue;
+    background-color: lightgreen;
+    width: 300px;
+}
+
+div:hover {
+    color: green;
+}

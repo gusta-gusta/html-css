@@ -1,0 +1,15 @@
+SAFE FONTES PARA SITE
+
+
+Arial (sans-serif)
+Verdana (sans-serif)
+Helvetica (sans-serif)
+Tahoma (sans-serif)
+Trebuchet MS (sans-serif)
+Times New Roman (serif)
+Georgia (serif)
+Garamond (serif)
+Courier New (monospace)
+Brush Script MT (cursive)
+
+font-family: colocar 2 opçoes de fontes e depois uma generica tipo (sans-serif) 
